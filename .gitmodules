@@ -1,6 +1,3 @@
-[submodule "MassEditing"]
-	path = MassEditing
-	url = git@github.com:JayVora-SerpentCS/MassEditing.git
 [submodule "doble_approval"]
 	path = doble_approval
 	url = git@github.com:viernes/doble_approval.git
