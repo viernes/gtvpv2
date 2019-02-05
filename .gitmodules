@@ -1,0 +1,21 @@
+[submodule "MassEditing"]
+	path = MassEditing
+	url = git@github.com:JayVora-SerpentCS/MassEditing.git
+[submodule "doble_approval"]
+	path = doble_approval
+	url = git@github.com:viernes/doble_approval.git
+[submodule "odoo_hr_expense_approval"]
+	path = odoo_hr_expense_approval
+	url = git@github.com:viernes/odoo_hr_expense_approval.git
+[submodule "purchase_tripple"]
+	path = purchase_tripple
+	url = git@github.com:viernes/purchase_tripple.git
+[submodule "seguros_gasolina"]
+	path = seguros_gasolina
+	url = git@github.com:William954/seguros_gasolina.git
+[submodule "w_custom_helpdesk_and_profiles"]
+	path = w_custom_helpdesk_and_profiles
+	url = git@github.com:William954/w_custom_helpdesk_and_profiles.git
+[submodule "w_custom_hr_holidays"]
+	path = w_custom_hr_holidays
+	url = git@github.com:William954/w_custom_hr_holidays.git
