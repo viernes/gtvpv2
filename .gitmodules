@@ -1,6 +1,3 @@
-[submodule "doble_approval"]
-	path = doble_approval
-	url = git@github.com:viernes/doble_approval.git
 [submodule "odoo_hr_expense_approval"]
 	path = odoo_hr_expense_approval
 	url = git@github.com:viernes/odoo_hr_expense_approval.git
